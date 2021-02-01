@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="ADB" ext="" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments"></Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">&quot;RIL_UNSOL_LTE_REJECT_CAUSE&quot;&#x000D;&#x000A;&quot;NOT_REG_MT_SEARCHING_OP_EM,&quot;&#x000D;&#x000A;&quot;NOT_REG_MT_SEARCHING_OP,&quot;&#x000D;&#x000A;&quot;NOT_REG_MT_NOT_SEARCHING_OP,&quot;&#x000D;&#x000A;&quot;{mVoiceRegState=1(OUT_OF_SERVICE),&quot;&#x000D;&#x000A;&quot;mDataRegState=1(OUT_OF_SERVICE),&quot;&#x000D;&#x000A;&quot;Temporarily not available&quot;&#x000D;&#x000A;&quot;SendMediaFailedToListn&quot;&#x000D;&#x000A;&quot;HandleCancel&quot;&#x000D;&#x000A;&quot;[RTP;text=\&quot;RTP-RTCP Timeout\&quot;]&quot;&#x000D;&#x000A;&quot;;text=\&quot;RTP-RTCP Timeout\&quot;&quot;&#x000D;&#x000A;&quot;SIP;cause=503;text=\&quot;Request Terminated - Bearer Released\&quot;&quot;&#x000D;&#x000A;&quot;SIP;cause=503;text=\&quot;Session released - service based local policy function aborted session\&quot;&quot;&#x000D;&#x000A;&quot;network subtype = 18&quot;&#x000D;&#x000A;&quot;onDisableApn:&quot;&#x000D;&#x000A;&quot;cleanUpConnectionInternal:&quot;&#x000D;&#x000A;&quot;RADIO_POWER on = false&quot;&#x000D;&#x000A;&quot;mRegistered=NO&quot;&#x000D;&#x000A;&quot;Handover request to IWLAN&quot;&#x000D;&#x000A;&quot;network subtype = 20&quot;&#x000D;&#x000A;&quot;DataFailCause =&quot;&#x000D;&#x000A;&quot;error=101(Network is unreachable),&quot;&#x000D;&#x000A;&quot;Connection failed:&quot;&#x000D;&#x000A;&quot;onReceive: action=android.intent.action.AIRPLANE_MODE&quot;&#x000D;&#x000A;&quot;endc_available : 0,&quot;&#x000D;&#x000A;&quot;restrict_dcnr : 1&quot;&#x000D;&#x000A;&quot;Trying (non-IMS) CS call&quot;&#x000D;&#x000A;&quot;911 over CS&quot;&#x000D;&#x000A;&quot;RIL_REQUEST_SET_IMS_REGISTRATION_STATUS regState: 0&quot;</Keywords>
+            <Keywords name="Keywords2">&quot;REG_HOME,&quot;&#x000D;&#x000A;&quot;network subtype = 13&quot;&#x000D;&#x000A;&quot;RADIO_POWER on = true&quot;&#x000D;&#x000A;&quot;[CellInfoLte:{mRegistered=YES&quot;&#x000D;&#x000A;&quot;setCallState DIALING -&gt; ACTIVE,&quot;&#x000D;&#x000A;&quot;Handover request to CELLULAR&quot;&#x000D;&#x000A;&quot;RIL_REQUEST_SET_IMS_REGISTRATION_STATUS regState: 1&quot;&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords3">&quot;.rat = 1,&quot;&#x000D;&#x000A;&quot;.rat = 2,&quot;&#x000D;&#x000A;&quot;.rat = 3,&quot;&#x000D;&#x000A;&quot;.rat = 4,&quot;&#x000D;&#x000A;&quot;.rat = 5,&quot;&#x000D;&#x000A;&quot;.rat = 6,&quot;&#x000D;&#x000A;&quot;.rat = 7,&quot;&#x000D;&#x000A;&quot;.rat = 8,&quot;&#x000D;&#x000A;&quot;.rat = 9,&quot;&#x000D;&#x000A;&quot;.rat = 10,&quot;&#x000D;&#x000A;&quot;.rat = 11,&quot;&#x000D;&#x000A;&quot;.rat = 12,&quot;&#x000D;&#x000A;&quot;.rat = 13,&quot;&#x000D;&#x000A;&quot;.rat = 15,&quot;&#x000D;&#x000A;&quot;.rat = 16,&quot;&#x000D;&#x000A;&quot;.rat = 17,&quot;&#x000D;&#x000A;&quot;.rat = 18,&quot;</Keywords>
+            <Keywords name="Keywords4">&quot;.rat = 14,&quot;&#x000D;&#x000A;&quot;.rat = 19,&quot;&#x000D;&#x000A;&quot;.rat = LTE_CA,&quot;&#x000D;&#x000A;&quot;.rat = LTE,&quot;</Keywords>
+            <Keywords name="Keywords5">&quot;modem subsystem failure reason:&quot;&#x000D;&#x000A;&quot;Assertion failed&quot;&#x000D;&#x000A;&quot;serviceDied&quot;&#x000D;&#x000A;&quot;{mVoiceRegState=3(POWER_OFF), mDataRegState=3(POWER_OFF),&quot;&#x000D;&#x000A;&quot;set state=1&quot;&#x000D;&#x000A;&quot;set state=2&quot;&#x000D;&#x000A;&quot;USER;text=\&quot;RTP-RTCP Timeout\&quot;&quot;&#x000D;&#x000A;&quot;nrType = -1,&quot;&#x000D;&#x000A;&quot;nrType = 0,&quot;&#x000D;&#x000A;&quot;tearDownAll:&quot;&#x000D;&#x000A;&quot;.rat = 0,&quot;&#x000D;&#x000A;&quot;data state :: 2 &gt;&gt; 0&quot;&#x000D;&#x000A;&quot;Handover failed&quot;&#x000D;&#x000A;&quot;FATAL EXCEPTION:&quot;&#x000D;&#x000A;&quot;Client died.&quot;&#x000D;&#x000A;&quot;SocketError&quot;&#x000D;&#x000A;&quot;java.lang.NullPointerException:&quot;&#x000D;&#x000A;&quot;-&gt; ABSENT@@@&quot;</Keywords>
+            <Keywords name="Keywords6">&quot;.rat = 20,&quot;&#x000D;&#x000A;&quot;.rat = NR,&quot;&#x000D;&#x000A;&quot;set state=0&quot;&#x000D;&#x000A;&quot;nrType = 2,&quot;&#x000D;&#x000A;&quot;nrType = 1,&quot;&#x000D;&#x000A;&quot;[CellInfoNr:{ mRegistered=YES&quot;&#x000D;&#x000A;&quot;data state :: 0 &gt;&gt; 2&quot;&#x000D;&#x000A;&quot;-&gt; PRESENT@@@&quot;</Keywords>
+            <Keywords name="Keywords7">&quot;//1/2/3/9/10/11/15/16:GW, 4/5/6:1x, 7/8/12/13:DO, 14:LTE, 18:IWAN, 19:LTE-CA, 20:NR&quot;&#x000D;&#x000A;&quot;//1:FR1(Sub6), 2:FR2(MMW)&quot;&#x000D;&#x000A;&quot;//NR radio condition&quot;&#x000D;&#x000A;&quot;//8th: 4096:LTE, 8192:LTE_CA, 16384:ENDC, 32768:SA&quot;</Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="no" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="&#x70A0;&#x52DF;&#x026B;" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontName="&#x7AC0;&#x52DF;&#x026B;" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="FF0000" bgColor="FFFFFF" fontName="&#x77F0;&#x52DF;&#x026B;" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="0000FF" bgColor="FFFFFF" fontName="no" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="FF0000" bgColor="FFFFFF" fontName="&#x3800;F&#x7F00;" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="0000FF" bgColor="FFFFFF" fontName="nternalFunction" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="FF0000" bgColor="FFFF80" fontName="LINE COMMENTS" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="0000FF" bgColor="FFFF80" fontName="&#x4328;&#x1654;&#x7FF8;" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="008000" bgColor="FFFFFF" fontName="length : 0    lines : 1" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="pedOpenFiles" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontName="&#x9450;&#x55BC;&#x026B;" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="tart|serviceDied" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="&#x8FF6;&#xB038;&#x48F8;&#x8000;&#xABC0;&#x55BC;&#x026B;" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="&#x8F13;&#xB0C5;&#x4F00;&#x8000;&#xAAD0;&#x5004;&#x026B;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="GUIConfig" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="GUIConfig" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="RememberLastSession" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="a) A&#x0008;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="note&#x8150;&#x52DF;&#x026B;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="&#x7250;&#x676F;&#x6172;&#x466D;&#x7F40;&#x52DF;&#x026B;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="drawTopBar" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
