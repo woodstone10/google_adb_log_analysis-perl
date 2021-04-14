@@ -18,9 +18,8 @@ How to use
 - Step.2: run AdbFilter.pl 
 - Step.3: open AdbFilter.txt with Notepad++
 - Step.4: Language > ADB in Notepad++ (optional for your view)
-*	Please see pictures in Appendix. How to Use it and Appendix. Load ADB.xml in Notepad++ for details
 
-
+## Examples
 Subsystem (modem) crash
 ![image](https://user-images.githubusercontent.com/77954837/114700858-05d07900-9d5d-11eb-81aa-048b0f018473.png)
 
